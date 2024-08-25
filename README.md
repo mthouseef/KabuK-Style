@@ -21,3 +21,33 @@ You can install the required libraries using pip:
 
 ```bash
 pip install -r requirements.txt
+
+
+
+Setup
+Clone the Repository
+
+bash
+Copy code
+git clone https://github.com/mthouseef/KabuK-Style.git
+cd KabuK-Style
+Install Dependencies
+
+bash
+Copy code
+pip install -r requirements.txt
+Usage
+Configure the Scraper
+
+Run the Scraper
+
+Execute the main script to start the data extraction process:
+
+bash
+Copy code
+python jalan.py
+The data will be extracted and saved in the specified format.
+
+File Structure
+jalan.py: The main script to run the data extraction.
+requirements.txt: List of required Python libraries.
