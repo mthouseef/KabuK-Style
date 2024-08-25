@@ -4,9 +4,9 @@ KabuK-Style is a data extraction project designed to scrape and process data fro
 
 ## Features
 
-- **Data Extraction**: Extracts detailed information from Jalan.net, including hotel listings, reviews, and pricing.
+- **Data Extraction**: Extracts detailed information from Jalan.net, including hotel listings, and pricing.
 - **Data Processing**: Processes the extracted data and formats it for analysis.
-- **Output Formats**: Supports saving data in multiple formats, such as CSV and Excel.
+- **Output Formats**: Supports saving data in csv formats.
 
 ## Requirements
 
